@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+
+# данные организаторов и материалы задания не выкладываем
+data/
+task/
+
+# развёрнутые версии с подробными пояснениями: личный конспект, не для сдачи
+solution_full.ipynb
+src/features_full.py
+README_full.md
